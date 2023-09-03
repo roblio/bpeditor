@@ -1,13 +1,13 @@
-# bpeditor
-A web file editory by BradiPanda, with rainbows and unicorns.
+# BPeditor
+A web file editory by BradiPanda (me and [Panda](https://github.com/H3ll0imP4nd4)), with rainbows and unicorns.
 
-Forked from Pheditor by Hamid Samak:
+Based on Pheditor by Hamid Samak:
 
 https://github.com/pheditor/pheditor
 
 Licensed under MIT license.
 
-Based on: PHP (www.php.net),
+Based on: PHP (php.net),
 Bootstrap (getbootstrap.com),
 CodeMirror (codemirror.net),
 Font Awesome (fontawesome.com),

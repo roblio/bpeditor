@@ -19,9 +19,10 @@ jsTree (jstree.com), jsTree Bootstrap Theme
 ![immagine](https://github.com/roblio/bpeditor/assets/40659196/e91ce0f9-5072-41c5-9e83-1a255aec3311)
 
 
-
 ![immagine](https://github.com/roblio/bpeditor/assets/40659196/be3c65e8-b4ac-451a-aa5c-ef37b5279b3b)
 
 
 ![immagine](https://github.com/roblio/bpeditor/assets/40659196/7d7f28e2-ac1b-4a2d-801a-66957fe0ede3)
 
+
+![immagine](https://github.com/roblio/bpeditor/assets/40659196/10f4e5c9-4ab3-41bb-af52-88c7937eacbe)

@@ -11,7 +11,7 @@ define('VERSION', '3.0');
 
 require_once("bpeditor.config.php");
 
-$CDN_codemirror = "https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.13";
+$CDN_codemirror = "https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.15";
 $CDN_boostrap = "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.2";
 $CDN_jquery = "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4";
 $CDN_jstree = "https://cdnjs.cloudflare.com/ajax/libs/jstree/3.3.15";
